@@ -1,0 +1,31 @@
+.backgroundinit{
+    margin-top: 0px;
+    padding: 0px;
+
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    background-image: url('./Hello!\ I\ am\ Christian.png'); /* Replace with the path to your image */
+    background-size: cover; /* Ensures the image covers the entire area */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents tiling */
+}
+
+.iamtext{text-indent: 0cap;
+}
+.myimage{
+    height:200px;
+    width:auto;
+}
+
+.centertext{
+    display: flex;
+    justify-content: center;
+}
+
+
+.greentext{
+    color:#077d61
+}
+
